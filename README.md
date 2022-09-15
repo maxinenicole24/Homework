@@ -4,11 +4,11 @@
 * **Name of the company:** Wealthfront 
 * **When was the company incorporated?** 2008
 * **Who are the founders of the company?** Andy Rachleff and Dan Carrol
-* **How did the idea for the company (or project) come about?** Initially founded by Benchmark, the company initially began as a mutual fund analysis company. From then it was morphed into a wealth management/ Robo-advising leader.
+* **How did the idea for the company (or project) come about?** Initially founded by Benchmark, the company began as a mutual fund analysis company. From then it was morphed into a wealth management/ Robo-advising leader.
 * **How is the company funded? How much funding have they received?** The company recieves its funding from charging advising fees for its invested products. 
 --- 
 ## Buisness Activities 
-* **What speciffic financial problem is the company or project trying to solve?** Wealthfront an industry leading automated investment platform that offers a completely digital stockmarket portfolio that incorporates goal setting and financial planning tools. Wealthfront is able to remove the confusion from investing and is able to make a diverse mix of investments for its customers automatically - after asking its customers a few questions on the types of investing they are interesting. 
+* **What speciffic financial problem is the company or project trying to solve?** Wealthfront an industry leading automated investment platform that offers a completely digital stockmarket portfolio that incorporates goal setting and financial planning tools. Wealthfront is able to remove the confusion from investing and is able to make a diverse mix of investments for its customers automatically - after asking its customers a few questions on the types of investing they are interested in. 
 * **Who is the company's intended customer? Is there any information about the market size of this set of customers?** Wealthfront's customer base is pridominatley those who are interested in long term investment for future large purchases such as: buying a home, retirement and large purchases.
 * **What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?** In comparison to other robo-advisors Wealthfront offers a relatively low cost access to a large group of potential investments. The company also provides accessible goal setting  and financial planning tools.
 * **Which technologies are they currently using, and how are they implementing them** Wealthfront combines cryptocurrency and multiple different types of stocks to offer a modern portfolio to its users.
