@@ -32,4 +32,9 @@
 * **Why do you think that offering this product or service would benefit the company?** To benifit the company, a smaller starting price would enable a greater number of clients to start intital invesmtents and would inevitably create a larger client base. 
 * **What technologies would this additional product or service utilize?** This additional product would largely incorporate online advertising. 
 * **Why are these technologies appropriate for your solution?** These online advertising technologies are appropriate for the solution presented as it would increase the companies exposure to newer clients. 
-
+---
+## References 
+https://www.wealthfront.com/ 
+https://www.forbes.com/advisor/investing/wealthfront-review-robo-advisor/
+https://www.nerdwallet.com/reviews/investing/advisors/wealthfront
+https://www.investopedia.com/wealthfront-review-4587933
